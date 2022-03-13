@@ -1,0 +1,96 @@
+<OverlayData>
+<MarkerCategory name="shadow">
+  	  <MarkerCategory name="arborstone">
+     <MarkerCategory name="inn" iconFile="Data\star.png" behavior="6"/>
+	 <MarkerCategory name="inntrail" />
+  </MarkerCategory>
+  <MarkerCategory name="HeroPointRun"> 
+	  <MarkerCategory name="arborstone">
+		  <MarkerCategory name="scrollrunToSetungtrail" />
+	  </MarkerCategory>
+	  <MarkerCategory name="seitung">
+		  <MarkerCategory name="wp" iconFile="Data\arrow.png" behavior="6"/>
+		  <MarkerCategory name="hp" iconFile="Data\circle.png" behavior="6"/>
+		  <MarkerCategory name="hptrail" />
+	   </MarkerCategory>
+	  <MarkerCategory name="kaineng">
+		  <MarkerCategory name="wp" iconFile="Data\arrow.png" behavior="6"/>
+		  <MarkerCategory name="hp" iconFile="Data\circle.png" behavior="6"/>
+		  <MarkerCategory name="hptrail" />
+	   </MarkerCategory>
+	  <MarkerCategory name="echovald">
+		  <MarkerCategory name="wp" iconFile="Data\arrow.png" behavior="6"/>
+		  <MarkerCategory name="hp" iconFile="Data\circle.png" behavior="6"/>
+		  <MarkerCategory name="hptrail" />
+	   </MarkerCategory>
+	</MarkerCategory>
+</MarkerCategory>
+	<POIs>
+		<POI MapID="1428" xpos="-832.618" ypos="94.8675" zpos="377.466" type="shadow.arborstone.inn" GUID="pa8xdel7tEOLJAXqcPby/w=="/>
+		<POI MapID="1442" xpos="-79.0006" ypos="14.34" zpos="-183.802" type="shadow.heropointrun.seitung.wp" GUID="OvFsEV13yUq8sEGjjwaD4A=="/>
+		<POI MapID="1442" xpos="-857.28" ypos="115.928" zpos="-117.54" type="shadow.heropointrun.seitung.wp" GUID="PrE2pM4FokeTcMFgbRpNhA=="/>
+		<POI MapID="1442" xpos="68.4102" ypos="114.059" zpos="251.529" type="shadow.heropointrun.seitung.wp" GUID="zTN3iNZIZkGDvBjnnnPMTA=="/>
+		<POI MapID="1442" xpos="340.281" ypos="0.559748" zpos="694.005" type="shadow.heropointrun.seitung.wp" GUID="rNgFT4BKuUGuoi8HA6dkmw=="/>
+		<POI MapID="1442" xpos="-316.9" ypos="2.9852" zpos="-217.181" type="shadow.heropointrun.seitung.hp" GUID="B9AfHbxXtE6A3a8kVdqPdA=="/>
+		<POI MapID="1442" xpos="-519.977" ypos="46.5629" zpos="-372.832" type="shadow.heropointrun.seitung.hp" GUID="NKALJ7aw7Em6KT+Wcd7JcA=="/>
+		<POI MapID="1442" xpos="-639.927" ypos="163.377" zpos="-64.1072" type="shadow.heropointrun.seitung.hp" GUID="RgDFvS3BpEWQfBHpUMBouQ=="/>
+		<POI MapID="1442" xpos="496.215" ypos="114.18" zpos="-184.163" type="shadow.heropointrun.seitung.hp" GUID="LnCrf2nwYUO61w2IOs4RdA=="/>
+		<POI MapID="1442" xpos="979.46" ypos="100.622" zpos="-360.226" type="shadow.heropointrun.seitung.hp" GUID="m6RSfV4DLketkt06zOgV1Q=="/>
+		<POI MapID="1442" xpos="-87.1091" ypos="217.711" zpos="85.9087" type="shadow.heropointrun.seitung.hp" GUID="rBrmher+CUaBW7Adzpotrw=="/>
+		<POI MapID="1442" xpos="-411.642" ypos="2.24512" zpos="189.192" type="shadow.heropointrun.seitung.hp" GUID="uCFPCq/aTESYvNHMBkU0aA=="/>
+		<POI MapID="1442" xpos="-174.892" ypos="-23.9814" zpos="727.91" type="shadow.heropointrun.seitung.hp" GUID="b4KUhOg6cEshadowdPNUPTKwAA=="/>
+		<POI MapID="1442" xpos="396.828" ypos="36.2995" zpos="464.236"  type="shadow.heropointrun.seitung.hp"  GUID="JfTK9x0hDUa1T5+YSIihPA=="/>
+		<POI MapID="1438" xpos="-853.417" ypos="139.089" zpos="-745.914" type="shadow.heropointrun.kaineng.hp" GUID="qwfxkt5dZ0enhI+t8zzayg=="/>
+		<POI MapID="1438" xpos="-882.23" ypos="2.83998" zpos="-129.012" type="shadow.heropointrun.kaineng.wp" GUID="g9Sy0+LW2Emmg4ChdOpunw=="/>
+		<POI MapID="1438" xpos="-547.146" ypos="120.156" zpos="188.028" type="shadow.heropointrun.kaineng.hp" GUID="fq1MQavkW0uNdvHNueVhEQ=="/>
+		<POI MapID="1438" xpos="-595.001" ypos="207.66" zpos="454.557" type="shadow.heropointrun.kaineng.wp"  GUID="hsi1dVypDUCrBRib6Lb+2g=="/>
+		<POI MapID="1438" xpos="-558.657" ypos="157.993" zpos="1.21185" type="shadow.heropointrun.kaineng.hp" GUID="jeP1neHbAEucPtbOC1taYA=="/>
+		<POI MapID="1438" xpos="-478.162" ypos="269.748" zpos="-456.472" type="shadow.heropointrun.kaineng.hp" GUID="qbei72XEkUiR8T4Sy+aYrQ=="/>
+		<POI MapID="1438" xpos="-149.982" ypos="2.62128" zpos="-35.2436" type="shadow.heropointrun.kaineng.wp" GUID="ROfvPO06t0mvT2PuytyOtg=="/>
+		<POI MapID="1438" xpos="233.04" ypos="12.0547" zpos="344.843" type="shadow.heropointrun.kaineng.hp" GUID="4Pth1IUS5EK0R+1neXdexg=="/> 
+		<POI MapID="1438" xpos="454.222" ypos="109.507" zpos="380.805" type="shadow.heropointrun.kaineng.hp" GUID="9iuTTx40QkWB0o5UOfYXdw=="/>
+		<POI MapID="1438" xpos="577.963" ypos="2.48486" zpos="-0.381165"  type="shadow.heropointrun.kaineng.wp" GUID="V70O2tb5gk2YgGxQ9HOVjw=="/>
+		<POI MapID="1438" xpos="1043.35" ypos="12.052" zpos="-0.485388" type="shadow.heropointrun.kaineng.hp" GUID="X7/qJfQJxUWXD/fUJFlyxg=="/>
+		<POI MapID="1438" xpos="825.024" ypos="55.1879" zpos="-616.3"type="shadow.heropointrun.kaineng.hp"  GUID="4fG7KMpQsk6SLAA8NDIeZQ=="/>
+		<POI MapID="1452" xpos="-126.193" ypos="162.828" zpos="709.576" type="shadow.heropointrun.echovald.wp" GUID="mrq7JbP4bk6lwFRHtZIqtQ=="/>
+		<POI MapID="1452" xpos="-349.01" ypos="198.586" zpos="672.377" type="shadow.heropointrun.echovald.hp" GUID="eLdFm7GxqkqLu29DYBCAFA=="/>
+		<POI MapID="1452" xpos="-660.498" ypos="166.658" zpos="78.6826" type="shadow.heropointrun.echovald.wp" GUID="TEbnSAcfvU6/76zxlQHfKA=="/>
+		<POI MapID="1452" xpos="-681.666" ypos="189.883" zpos="24.0696" type="shadow.heropointrun.echovald.hp" GUID="4sWp6fDtXEurWMJ8NEGGbQ=="/>
+		<POI MapID="1452" xpos="-98.8147" ypos="204.295" zpos="-54.4469" type="shadow.heropointrun.echovald.hp" GUID="baTB7nn/0UW0FPrHaYripQ=="/>
+		<POI MapID="1452" xpos="1058.79" ypos="7.65842" zpos="-524.16" type="shadow.heropointrun.echovald.wp" GUID="QL06Zjvyw0uk1i6QOUpu4Q=="/>
+		<POI MapID="1452" xpos="1035.1" ypos="99.7374" zpos="-661.288" type="shadow.heropointrun.echovald.hp" GUID="Ae8Fz9V1vEqn5mdhyDap4w=="/>
+		<POI MapID="1452" xpos="144.914" ypos="0.890382" zpos="-693.312" type="shadow.heropointrun.echovald.hp" GUID="AKLBNWTeXkeTNKXuuFyT3Q=="/>
+		<POI MapID="1452" xpos="-879.223" ypos="222.066" zpos="-483.875" type="shadow.heropointrun.echovald.hp" GUID="iylSqoI3HU6xQhNA+G74Ow=="/>
+		<POI MapID="1452" xpos="1012.17" ypos="88.8319" zpos="38.2172" type="shadow.heropointrun.echovald.wp" GUID="AdZmONiee0uZz7cn63VRHg=="/>
+		<Trail trailData="Data\shadow\arborstoneinn.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.arborstone.inntrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp1v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp2v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp3v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp4v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp5v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp6v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp7.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp8v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nkhp9v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\nktoev.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\setunghp1.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\setunghp2v2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\setunghp3.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\setunghp-wp-wp.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\setunghp4.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\setunghp5.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\setunghp6.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evhp1.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evhp2.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evhp3.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evhp3towp.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evhp4.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evhp5.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evhp6.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\evwptojade.trl" texture="Data\trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\arbortosetung1.trl" texture="Data\trail.png" color="ffffff11" animSpeed="0.1" alpha="1" type="shadow.heropointrun.arborstone.scrollrunToSetungtrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\arbortosetung2.trl" texture="Data\trail.png" color="ffffff11" animSpeed="0.1" alpha="1" type="shadow.heropointrun.arborstone.scrollrunToSetungtrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data\shadow\arbortosetung3.trl" texture="Data\trail.png" color="ffffff11" animSpeed="0.1" alpha="1" type="shadow.heropointrun.arborstone.scrollrunToSetungtrail" fadeNear="3000" fadeFar="4000"/>
+
+	</POIs>
+</OverlayData>
