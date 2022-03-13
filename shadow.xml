@@ -73,13 +73,13 @@
 		<Trail trailData="Data/shadow/nkhp8v2.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
 		<Trail trailData="Data/shadow/nkhp9v2.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
 		<Trail trailData="Data/shadow/nktoev.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.kaineng.hptrail" fadeNear="3000" fadeFar="4000"/>
-		<Trail trailData="Data/shadow/setunghp1.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
-		<Trail trailData="Data/shadow/setunghp2v2.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
-		<Trail trailData="Data/shadow/setunghp3.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
-		<Trail trailData="Data/shadow/setunghp-wp-wp.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
-		<Trail trailData="Data/shadow/setunghp4.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
-		<Trail trailData="Data/shadow/setunghp5.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
-		<Trail trailData="Data/shadow/setunghp6.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.setiung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data/shadow/setunghp1.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.seitung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data/shadow/setunghp2v2.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.seitung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data/shadow/setunghp3.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.seitung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data/shadow/setunghp-wp-wp.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.seitung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data/shadow/setunghp4.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.seitung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data/shadow/setunghp5.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.seitung.hptrail" fadeNear="3000" fadeFar="4000"/>
+		<Trail trailData="Data/shadow/setunghp6.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.seitung.hptrail" fadeNear="3000" fadeFar="4000"/>
 		<Trail trailData="Data/shadow/evhp1.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
 		<Trail trailData="Data/shadow/evhp2.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
 		<Trail trailData="Data/shadow/evhp3.trl" texture="Data/trail.png" color="ffffffff" animSpeed="0.1" alpha="1" type="shadow.heropointrun.echovald.hptrail" fadeNear="3000" fadeFar="4000"/>
