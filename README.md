@@ -5,8 +5,7 @@
  Path after arborstone scroll to Setiung
 
 ## Instructions:
-- Copy  shadow.xml to POI
-- Copy Data/shadow to Data
+- Copy .zip to taco POI directory
 
-## Notes
-I'm having trouble getting a .taco to work, hope to have it working later
+### Notes
+converted to .zip with windows send to "compress to folder" and selecting .xml and Data
